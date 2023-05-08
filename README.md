@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abdulhamidxan
+- 👀 I’m interested in tennis
+- 🌱 I’m currently learning python
+- 📫 How to reach me: emilioiesco@gmail.com
